@@ -1,0 +1,14 @@
+.....F..
+======================================================================
+FAIL: test_teacher_profile_page (test_app.TestEduConnectApp.test_teacher_profile_page)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\pruth\OneDrive\Desktop\monisha project\educonnect\test_app.py", line 20, in test_teacher_profile_page
+    self.assertEqual(response.status_code, 404)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 200 != 404
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.090s
+
+FAILED (failures=1)

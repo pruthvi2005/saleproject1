@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+.vscode/
+.idea/
+educonnect_data.json
+# educonnect.db # Uncomment if you want to keep the database local only
+static/uploads/*
+!static/uploads/.gitkeep
